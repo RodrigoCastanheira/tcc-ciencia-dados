@@ -1,0 +1,9 @@
+/bin
+/DIST
+/dist
+/build
+/target/
+/.classpath
+/*.project
+/.settings
+/*.springBeans
